@@ -21,11 +21,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("NUnit Extension Addins")]
-[assembly: AssemblyDescription("Addins for extending NUnit Core.")]
+[assembly: AssemblyTitle("NUnitExtension.Addins.Test")]
+[assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Simansoft Studio")]
-[assembly: AssemblyProduct("NUnitExtension.Addins")]
+[assembly: AssemblyProduct("NUnitExtension.Addins.Test")]
 [assembly: AssemblyCopyright("Copyright © 2013 Simansoft Studio")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -36,7 +36,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("4426593a-5351-4c52-b066-e73c71484e51")]
+[assembly: Guid("b447875c-e099-4b6e-87af-37c43a408a54")]
 
 // Version information for an assembly consists of the following four values:
 //
@@ -48,6 +48,5 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("0.1")]
-[assembly: AssemblyFileVersion("0.1.2013.8311")]
-[assembly: AssemblyInformationalVersion("2.6.2")]
+[assembly: AssemblyVersion("1.0.0.0")]
+[assembly: AssemblyFileVersion("1.0.0.0")]
